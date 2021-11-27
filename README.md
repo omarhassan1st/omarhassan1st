@@ -2,7 +2,7 @@
                                                                 
 <h3 align="center"> A .net developer from Alexandria, Egypt</h3>
 
-<h4 color="blue"> Here are some ideas to get you started:</h3>
+<h4> Here are some ideas to get you started:</h3>
 
 - 🔭 I’m currently working on freelancing
 - 🌱 I’m currently learning web advanced security system
