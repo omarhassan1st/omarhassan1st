@@ -2,8 +2,6 @@
                                                                 
 <h3 align="center"> A .net software developer from Alexandria, Egypt</h3>
 
-<h4> Here are some ideas to get you started:</h3>
-
 - 🔭 I’m currently working on freelancing
 - 🌱 I’m currently learning web advanced security system
 - 👯 I’m looking to collaborate on asp.net core applications
