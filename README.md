@@ -25,7 +25,7 @@
   <a href="https://www.instagram.com/dev_omarhassan/">
     <img align="center" src="https://img.icons8.com/color/48/000000/instagram-new--v1.png"/>
   </a>
-    <a href="mywa.link/ufv4ljqk">
+    <a href="https://mywa.link/ufv4ljqk">
   <img align="center" src="https://img.icons8.com/color/48/000000/whatsapp--v2.png"/>
   </a>
 </p>
