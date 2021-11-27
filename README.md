@@ -1,9 +1,7 @@
-<h4 align="center">Hi 👋, I'm Omar Hassan</h4>
+<h1 align="center">Hi 👋, I'm Omar Hassan</h1>
+                                                                
+<h3 align="center"> A .net developer from Alexandria, Egypt</h3>
 
-                                                                      
-<p align="center">
-  A .net developer from Alexandria, Egypt
-</p>
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on freelancing
