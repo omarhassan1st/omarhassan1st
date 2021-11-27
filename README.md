@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi 👋, I'm Omar Hassan
 
-<!--
-**omarhassan1st/omarhassan1st** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A .net developer from Alexandria, Egypt
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on freelancing
+- 🌱 I’m currently learning web advanced security system
+- 👯 I’m looking to collaborate on asp.net core applications
+- 👨‍💻 All of my projects are available at https://github.com/omarhassan1st?tab=projects
+- 💬 Ask me about
+- 👨‍ BackEnd {C#,ASP.NET CORE MVC,restful api,OOP, OOD,sql server,sqlite,windows-form,design patterns - reverse engineering,Encryption & Decryption, xmind} 
+- 👨‍ FrontEnd { html - css - javaScript - vue.js - json - xml }
+- 📫 How to reach me: omarhassan1st@gmail.com
+- ✨ youtube channel: https://www.youtube.com/channel/UCrEBr9Z6b7uko0cyfnG2ssg
