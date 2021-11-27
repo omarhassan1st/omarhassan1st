@@ -4,7 +4,7 @@
 
 <h4> Here are some ideas to get you started:</h3>
 
-- 🔭 I’m currently working on freelancing
+- 🔭 I’m currently working on <p style="color:green">freelancing</p>
 - 🌱 I’m currently learning web advanced security system
 - 👯 I’m looking to collaborate on asp.net core applications
 - 👨‍💻 All of my projects are available at https://github.com/omarhassan1st?tab=projects
