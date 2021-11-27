@@ -16,11 +16,15 @@
 
 <h3>Connect with me:</h3>
 <p>
-  <a href="https://www.facebook.com/profile.php?id=100022899514518">
+  <a href="https://www.linkedin.com/in/omar-hassan-68a063213/">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/engmoamenragab/" height="30" width="40" style="max-width: 100%;">
   </a>
-  
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="engmoamenragab" height="30" width="40" style="max-width: 100%;">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="engmoamenragab" height="30" width="40" style="max-width: 100%;">
+  <a href="https://www.facebook.com/profile.php?id=100022899514518">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="engmoamenragab" height="30" width="40" style="max-width: 100%;">
+  </a>
+  <a href="www.instagram.com/dev_omarhassan/">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="engmoamenragab" height="30" width="40" style="max-width: 100%;">
+  </a>
+  whatsapp: +201069404727
 </p>
 
