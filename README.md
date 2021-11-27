@@ -17,17 +17,13 @@
 <h3>Connect with me:</h3>
 <p>
   <a href="https://www.linkedin.com/in/omar-hassan-68a063213/">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/engmoamenragab/" height="30" width="40" style="max-width: 100%;">
+  <img src="https://img.icons8.com/color/48/000000/linkedin.png"/>
   </a>
   <a href="https://www.facebook.com/profile.php?id=100022899514518">
-    <img align="center" src="https://img.icons8.com/color/96/000000/facebook.png">
+    <img align="center" src="https://img.icons8.com/color/48/000000/facebook.png">
   </a>
   <a href="https://www.instagram.com/dev_omarhassan/">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="engmoamenragab" height="30" width="40" style="max-width: 100%;">
-  </a>
-    </a>
-  <a href="">
-    <img align="center" src="https://thumbs.dreamstime.com/b/whatsapp-icon-isolated-white-vector-file-included-whatsapp-flat-icon-164609425.jpg" alt="engmoamenragab" width="40" height="40" width="40" style="max-width: 100%;">
+    <img src="https://img.icons8.com/color/48/000000/instagram-new--v1.png"/>
   </a>
 </p>
 whatsapp: +201069404727
