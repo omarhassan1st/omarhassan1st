@@ -17,13 +17,16 @@
 <h3>Connect with me:</h3>
 <p>
   <a href="https://www.linkedin.com/in/omar-hassan-68a063213/">
-  <img src="https://img.icons8.com/color/48/000000/linkedin.png"/>
+  <img align="center" src="https://img.icons8.com/color/48/000000/linkedin.png"/>
   </a>
   <a href="https://www.facebook.com/profile.php?id=100022899514518">
     <img align="center" src="https://img.icons8.com/color/48/000000/facebook.png">
   </a>
   <a href="https://www.instagram.com/dev_omarhassan/">
-    <img src="https://img.icons8.com/color/48/000000/instagram-new--v1.png"/>
+    <img align="center" src="https://img.icons8.com/color/48/000000/instagram-new--v1.png"/>
+  </a>
+    <a href="mywa.link/ufv4ljqk">
+  <img align="center" src="https://img.icons8.com/color/48/000000/whatsapp--v2.png"/>
   </a>
 </p>
 whatsapp: +201069404727
