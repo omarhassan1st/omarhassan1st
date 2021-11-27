@@ -22,9 +22,9 @@
   <a href="https://www.facebook.com/profile.php?id=100022899514518">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="engmoamenragab" height="30" width="40" style="max-width: 100%;">
   </a>
-  <a href="www.instagram.com/dev_omarhassan/">
+  <a href="https://www.instagram.com/dev_omarhassan/">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="engmoamenragab" height="30" width="40" style="max-width: 100%;">
   </a>
-  whatsapp: +201069404727
 </p>
+whatsapp: +201069404727
 
