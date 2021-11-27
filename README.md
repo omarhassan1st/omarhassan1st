@@ -29,5 +29,4 @@
   <img align="center" src="https://img.icons8.com/color/48/000000/whatsapp--v2.png"/>
   </a>
 </p>
-whatsapp: +201069404727
 
