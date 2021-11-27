@@ -8,8 +8,7 @@
 - 🌱 I’m currently learning web advanced security system
 - 👯 I’m looking to collaborate on asp.net core applications
 - 👨‍💻 All of my projects are available at https://github.com/omarhassan1st?tab=projects
- <p>
-  💬 Ask me about => <br/>
+ <p>- 💬 Ask me about => <br/>
     <p>  BackEnd {C#, ASP.NET CORE MVC, restful api, OOP, OOD, sql server,sqlite, windows-form, design patterns, reverse engineering, Encryption & Decryption, xmind} </p>  
     </p> FrontEnd { html - css - javaScript - vue.js - json - xml }<p>   
    </p>
