@@ -1,7 +1,9 @@
                                                                              ### Hi 👋, I'm Omar Hassan
 
-                                                                      A .net developer from Alexandria, Egypt
-
+                                                                      
+<p align="center">
+  A .net developer from Alexandria, Egypt
+</p>
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on freelancing
