@@ -14,9 +14,6 @@
 
 <h3>Connect with me:</h3>
 <p>
-  <a href="omarhassan1st@gmail.com">
-  <img  align="center" src="https://img.icons8.com/color/48/000000/new-post.png"/>
-  </a>
   <a href="https://www.linkedin.com/in/omar-hassan-68a063213/">
   <img align="center" src="https://img.icons8.com/color/48/000000/linkedin.png"/>
   </a>
