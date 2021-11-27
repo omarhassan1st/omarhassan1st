@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Omar Hassan</h1>
                                                                 
-<h3 align="center"> A .net Backend developer from Alexandria, Egypt</h3>
+<h3 align="center"> A .net software developer from Alexandria, Egypt</h3>
 
 <h4> Here are some ideas to get you started:</h3>
 
