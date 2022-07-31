@@ -2,13 +2,13 @@
                                                                 
 <h3 align="center"> A .net software developer from Alexandria, Egypt</h3>
 
-- 🔭 I’m currently working on freelancing
+- 🔭 I’m currently working on Elrayda ElKobra ( Saudi Company ) as a senior developer ( Full-Stack )
 - 🌱 I’m currently learning web advanced security system
 - 👯 I’m looking to collaborate on asp.net core applications
 - 👨‍💻 All of my projects are available at https://github.com/omarhassan1st?tab=projects
 - 💬 Ask me about =>
--  BackEnd : C#, ASP.NET CORE, MVC, restful api, OOP, OOD, sql server, t-sql, sqlite, windows-form, design patterns, reverse engineering, Encryption & Decryption, xmind
--  FrontEnd : html - css - javaScript - vue.js - json - xml
+-  BackEnd : C#, ASP.NET CORE, MVC, restful api, OOP, OOD, sql server, t-sql, sqlite, windows-form, design patterns, reverse engineering, Encryption & Decryption, xmind and more
+-  FrontEnd : html - css - javaScript - vue.js - json - xml, Jquery, and more
 - 📫 How to reach me: omarhassan1st@gmail.com
 - ✨ youtube channel: https://www.youtube.com/channel/UCrEBr9Z6b7uko0cyfnG2ssg
 
