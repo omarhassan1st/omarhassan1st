@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Omar Hassan</h1>
                                                                 
-<h3 align="center"> A .net software developer from Alexandria, Egypt</h3>
+<h3 align="center"> Senior .NET Developer from Alexandria, Egypt</h3>
 
-- 🔭 I’m currently working on Elrayda ElKobra ( Saudi Company ) as a senior developer ( Full-Stack )
-- 🌱 I’m currently learning web advanced security system
-- 👯 I’m looking to collaborate on asp.net core applications
-- 👨‍💻 All of my projects are available at https://github.com/omarhassan1st?tab=projects
+- 🔭 I’m currently working on ( Saudi Company ) as a Senior Developer ( Full-Stack )
+- 🌱 I’m currently learning Abp.IO
+- 👯 I’m looking to collaborate on asp.net core - angular applications
+- 👨‍💻 most of my public projects are available at https://github.com/omarhassan1st?tab=projects
 - 💬 Ask me about =>
 -  BackEnd : C#, ASP.NET CORE, MVC, restful api, OOP, OOD, sql server, t-sql, sqlite, windows-form, design patterns, reverse engineering, Encryption & Decryption, xmind and more
 -  FrontEnd : html - css - javaScript - vue.js - json - xml, Jquery, and more
